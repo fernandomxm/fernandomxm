@@ -54,10 +54,11 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informaçã
 
 ### 🤝 Vamos Conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/fernando-muniz-7351132b/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:fernandomxm@gmail.com)
-[![Portfólio](https://www.linkedin.com/in/fernando-muniz-7351132b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-muniz-7351132b)
+- 📷 [Instagram](https://instagram.com/fernandomxm)
+- 🌐 [Portfólio](https://github.com/fernandomxm)
+- ✉️ Email: [fernandomxm@gmail.om]
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos?
+⭐️ Obrigado por visitar meu perfil! Precisando de ajuda, só chamar!
