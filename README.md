@@ -43,13 +43,13 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação
 
 ---
 
-/** ### 🚀 Projetos em Destaque
+<!-- ### 🚀 Projetos em Destaque
 
 🔹 [**Projeto 1**](link-do-projeto) — pequena descrição do que ele faz  
 🔹 [**Projeto 2**](link-do-projeto) — outra descrição legal aqui  
 🔹 [Veja mais...](https://github.com/SEUUSUARIO?tab=repositories)
-**/
----
+
+--- -->
 
 ### 🤝 Vamos Conectar?
 
