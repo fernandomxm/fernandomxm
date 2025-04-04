@@ -11,12 +11,12 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com foco em **[sua stack principal, ex: JavaScript, Python, etc.]**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código limpo e eficiente.
+Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informação]**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
 
-- 🌱 Atualmente aprendendo: **[tecnologias ou conceitos que está estudando]**
-- 🔭 Trabalhando em: **[seu projeto atual ou algo que esteja desenvolvendo]**
-- 📫 Como me encontrar: **[seu email / LinkedIn / Twitter / site pessoal]**
-- 💬 Pergunte-me sobre: **[linguagens, frameworks ou assuntos que você manja bem]**
+- 🌱 Atualmente aprendendo: **[Hacking cloud]**
+- 🔭 Trabalhando em: **[projeto de segurança para ambientes em cloud]**
+- 📫 Como me encontrar: **[fernandomxm@gmail.com / LinkedIn / Twitter]**
+- 💬 Pergunte-me sobre: **[CloudSec, AppSec, ArqSec]**
 
 ---
 
@@ -54,9 +54,9 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com foco em **[sua stac
 
 ### 🤝 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:seu@email.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square)](https://seusite.dev)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/fernando-muniz-7351132b/))
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:fernandomxm@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square)]([https://seusite.dev](https://www.linkedin.com/in/fernando-muniz-7351132b/))
 
 ---
 
