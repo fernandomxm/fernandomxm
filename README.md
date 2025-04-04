@@ -55,9 +55,9 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informaçã
 ### 🤝 Vamos Conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-muniz-7351132b)
-- 📷 [Instagram](@fernandomxm)
+- 📷 [Instagram](https://instagram.com/fernandomxm)
 - 🌐 [Portfólio](https://github.com/fernandomxm)
-- 🌐 [Twitter](@fernandomxm)
+- 🌐 [Twitter](https://x.com/fernandomxm)
 - ✉️ Email: [fernandomxm@gmail.om]
 
 ---
