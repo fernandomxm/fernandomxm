@@ -1,10 +1,10 @@
 <img src="URL_DA_IMAGEM" alt="Cybersecurity Banner" width="100%" />
 <img src="https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/cyber-security.jpg" alt="Cybersecurity Banner" width="100%" />
 
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Eu sou Fernando Muniz</h1>
 
 <p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🎯 Sempre aprendendo
+  💻 Especialista em segurança da informação | 🚀 Entusiasta de Tecnologia | 🎯 Sempre aprendendo
 </p>
 
 ---
