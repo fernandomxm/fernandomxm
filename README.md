@@ -13,10 +13,10 @@
 
 Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informação]**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
 
-- 🌱 Atualmente aprendendo: **[Hacking cloud]**
-- 🔭 Trabalhando em: **[projeto de segurança para ambientes em cloud]**
-- 📫 Como me encontrar: **[fernandomxm@gmail.com / LinkedIn / Twitter]**
-- 💬 Pergunte-me sobre: **[CloudSec, AppSec, ArqSec]**
+- 🌱 Atualmente aprendendo **Hacking cloud**
+- 🔭 Trabalhando em **projeto de segurança para ambientes em cloud**
+- 📫 Como me encontrar **fernandomxm@gmail.com / LinkedIn / Twitter**
+- 💬 Pergunte-me sobre **CloudSec, AppSec, ArqSec**
 
 ---
 
@@ -55,8 +55,9 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informaçã
 ### 🤝 Vamos Conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-muniz-7351132b)
-- 📷 [Instagram](https://instagram.com/fernandomxm)
+- 📷 [Instagram](@fernandomxm)
 - 🌐 [Portfólio](https://github.com/fernandomxm)
+- 🌐 [Twitter](@fernandomxm)
 - ✉️ Email: [fernandomxm@gmail.om]
 
 ---
