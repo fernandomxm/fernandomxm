@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
+Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação**, sempre em busca de novos conhecimentos e crescimento. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
 
 - 🌱 Atualmente aprendendo **Hacking cloud**
 - 🔭 Trabalhando em **projeto de segurança para ambientes em cloud**
@@ -31,7 +31,6 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 
-*Adapte a lista com suas tecnologias favoritas.*
 
 ---
 
@@ -44,12 +43,12 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação
 
 ---
 
-### 🚀 Projetos em Destaque
+/** ### 🚀 Projetos em Destaque
 
 🔹 [**Projeto 1**](link-do-projeto) — pequena descrição do que ele faz  
 🔹 [**Projeto 2**](link-do-projeto) — outra descrição legal aqui  
 🔹 [Veja mais...](https://github.com/SEUUSUARIO?tab=repositories)
-
+**/
 ---
 
 ### 🤝 Vamos Conectar?
