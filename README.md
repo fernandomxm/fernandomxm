@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informação]**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
+Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação**, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
 
 - 🌱 Atualmente aprendendo **Hacking cloud**
 - 🔭 Trabalhando em **projeto de segurança para ambientes em cloud**
