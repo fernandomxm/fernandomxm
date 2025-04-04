@@ -54,9 +54,9 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **[segurança da informaçã
 
 ### 🤝 Vamos Conectar?
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/fernando-muniz-7351132b/))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)]
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:fernandomxm@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square)]([https://seusite.dev](https://www.linkedin.com/in/fernando-muniz-7351132b/))
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square)]
 
 ---
 
