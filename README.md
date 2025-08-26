@@ -12,7 +12,7 @@
 
 Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação**, sempre em busca de novos conhecimentos e crescimento. Acredito no poder da colaboração e na beleza de um código seguro e eficiente.
 
-- 🌱 Atualmente aprendendo **Hacking cloud**
+- 🌱 Atualmente estudando **Hacking cloud**
 - 🔭 Trabalhando em **projeto de segurança para ambientes em cloud**
 - 📫 Como me encontrar **fernandomxm@gmail.com / LinkedIn / Twitter**
 - 💬 Pergunte-me sobre **CloudSec, AppSec, ArqSec**
