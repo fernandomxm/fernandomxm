@@ -26,14 +26,14 @@ Sou um(a) apaixonado(a) por tecnologia, com foco em **segurança da informação
 
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandomxm&show_icons=true&theme=radical&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomxm&layout=compact&theme=radical" />
 </p>
-
+-->
 ---
 
 <!-- ### 🚀 Projetos em Destaque
